@@ -41,7 +41,7 @@ class JoKenPokemonScreen extends StatefulWidget {
 class _JoKenPokemonScreenState extends State<JoKenPokemonScreen> {
   final List<Pokemon> pokemons = [
     Pokemon(name: 'Charmander', imagePath: 'images/charmander.png'),
-    Pokemon(name: 'bulbassaur', imagePath: 'images/bulbassaur.png'),
+    Pokemon(name: 'Bulbassaur', imagePath: 'images/bulbassaur.png'),
     Pokemon(name: 'Squirtle', imagePath: 'images/squirtle.png'),
   ];
 
